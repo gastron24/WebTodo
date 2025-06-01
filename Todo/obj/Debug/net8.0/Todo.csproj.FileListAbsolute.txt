@@ -1,0 +1,6 @@
+C:\Users\pizda\source\repos\Todo\Todo\obj\Debug\net8.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizda\source\repos\Todo\Todo\obj\Debug\net8.0\Todo.AssemblyInfoInputs.cache
+C:\Users\pizda\source\repos\Todo\Todo\obj\Debug\net8.0\Todo.AssemblyInfo.cs
+C:\Users\pizda\source\repos\Todo\Todo\obj\Debug\net8.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\pizda\source\repos\Todo\Todo\obj\Debug\net8.0\Todo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pizda\source\repos\Todo\Todo\obj\Debug\net8.0\Todo.sourcelink.json
