@@ -12,7 +12,7 @@
             {
                 percent[i] = num;
             }          
-          return percent.Length;
+          return percent.Length;      // привязать к задаче (статус выполнения задачи)
         }
         
         

@@ -1,20 +1,19 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
+﻿    
 using Microsoft.AspNetCore.Mvc;
 using Todo.Models;
 using Todo.Services;
 namespace Todo.Controllers;
 
 [ApiController]
-[Route("controller")]
+[Route("[controller]")]
 public class AddTaskController : ControllerBase
 {
-    [HttpPost]
-    [Route("AddTask")]
+    [HttpPost("CreateTask")]
     public IActionResult InputTask([FromBody] Models.Task model)
     {
 
         if (model == null || string.IsNullOrEmpty(model.Name))
-            throw new Exception("BadReques");
+            return BadRequest("Task name is required");
 
         Models.Task task = new Models.Task(
             model.Name,
@@ -22,14 +21,21 @@ public class AddTaskController : ControllerBase
             status: 0,
             isComplete: false
             );
-        Services.TasksList.tasksList.Add(task);
+        TasksList.AddTask(task);
 
-        return CreatedAtActionResult(nameof(InputTask), new task)  // доделать завтра
-
-
-        
+        return CreatedAtAction(
+           nameof(InputTask),
+           new { id = task.Id },
+           task
+       );
     }
+    [HttpGet("ShowTask")]
+    
+    public IActionResult ShowTasks([FromBody] Models.Task task)
+    {
+        return Ok(Services.TasksList.TasksLists);
 
 
+    }
 
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZeYKAu9HXhc=",
+  "dgSpecHash": "OBml8qaeviU=",
   "success": true,
   "projectFilePath": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Todo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pizda\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\pizda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.1.2\\swashbuckle.aspnetcore.swagger.8.1.2.nupkg.sha512",
+    "C:\\Users\\pizda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.1.2\\swashbuckle.aspnetcore.swaggergen.8.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

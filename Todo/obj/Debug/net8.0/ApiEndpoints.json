@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Todo.Controllers.AddTaskController",
+    "Method": "InputTask",
+    "RelativePath": "AddTask/Task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Todo.Models.Task",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Todo.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "Home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\pizda\\source\\repos\\Todo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE6336B2-4825-4A1A-A7AB-F9A440C1B0B7}|Todo\\Todo.csproj|c:\\users\\pizda\\source\\repos\\todo\\todo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6336B2-4825-4A1A-A7AB-F9A440C1B0B7}|Todo\\Todo.csproj|solutionrelative:todo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6336B2-4825-4A1A-A7AB-F9A440C1B0B7}|Todo\\Todo.csproj|c:\\users\\pizda\\source\\repos\\todo\\todo\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6336B2-4825-4A1A-A7AB-F9A440C1B0B7}|Todo\\Todo.csproj|solutionrelative:todo\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE6336B2-4825-4A1A-A7AB-F9A440C1B0B7}|Todo\\Todo.csproj|c:\\users\\pizda\\source\\repos\\todo\\todo\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE6336B2-4825-4A1A-A7AB-F9A440C1B0B7}|Todo\\Todo.csproj|solutionrelative:todo\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,17 +38,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Todo\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Models\\Menu.cs*",
+              "RelativeToolTip": "Todo\\Models\\Menu.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:51:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Todo\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Controllers\\TaskController.cs*",
+              "RelativeToolTip": "Todo\\Controllers\\TaskController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:47:55.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Todo\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Services\\TaskService.cs",
+              "RelativeToolTip": "Todo\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:47:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Todo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Todo\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:56:30.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StatusLevel.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Models\\StatusLevel.cs",
               "RelativeDocumentMoniker": "Todo\\Models\\StatusLevel.cs",
               "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Models\\StatusLevel.cs",
               "RelativeToolTip": "Todo\\Models\\StatusLevel.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T13:24:57.441Z",
               "EditorCaption": ""
@@ -48,51 +112,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "Todo\\Services\\TaskService.cs",
-              "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Services\\TaskService.cs",
-              "RelativeToolTip": "Todo\\Services\\TaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T11:54:12.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "Todo\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "Todo\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T11:33:29.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Todo\\Models\\Task.cs",
               "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Models\\Task.cs",
               "RelativeToolTip": "Todo\\Models\\Task.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T11:31:43.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Program.cs",
               "RelativeDocumentMoniker": "Todo\\Program.cs",
               "ToolTip": "C:\\Users\\pizda\\source\\repos\\Todo\\Todo\\Program.cs",
               "RelativeToolTip": "Todo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA9wBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T11:30:42.067Z",
               "EditorCaption": ""
